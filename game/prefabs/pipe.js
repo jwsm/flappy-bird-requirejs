@@ -19,7 +19,6 @@ define([
 
 	};
 
-	// module.exports = Pipe;
 	return Pipe;
 
 });

@@ -18,6 +18,5 @@ define([
 
 	};
 
-	// module.exports = Ground;
 	return Ground;
 });

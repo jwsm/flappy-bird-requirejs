@@ -2,7 +2,6 @@ define([
   './pipe'
 ], function(Pipe) {
 
-  // var Pipe = require('./pipe');
 
   var PipeGroup = function(game, parent) {
     Phaser.Group.call(this, game, parent);
@@ -49,6 +48,6 @@ define([
     this.exists = true;
   };
 
-  // module.exports = PipeGroup;
   return PipeGroup;
+
 });
